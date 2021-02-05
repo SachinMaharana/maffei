@@ -2,7 +2,7 @@
 
 ```js
 
-
+starter from https://github.com/SachinMaharana/react-tailwind-starter
 
 yarn outdated
 
